@@ -22,30 +22,40 @@ Construir una SPA (Single Page Application) que sea eficiente, ligera y escalabl
 - Postman (para pruebas de endpoints)
 
 -Instrucciones
-
+-
 - Descargar el Repositorio
+
 *git clone https://github.com/AngelJAQ/ProyectoApp.git
 cd ProyectoApp/heroesApp*
 
 - Instala las dependencias del proyeto
+
 En una terminal (puede ser la que incluye VS Code o el propio CMD) tendras que navegar hasta la carpeta del proyecto: heroesApp y ejecutar el siguiente comando:
-#npm install
+
+*npm install*
 
 en esta parte tendras que esperar a que se instalen las dependencias necesarias para ejecutar el proyecto
 
 - Instala JSON-SERVER de Manera Global
+
 Ahora, para instalar JSON-Server de Manera Global, bastara con ejecutar el siguiente comando, pero debera ser en el CMD Modo Administrador:
+
 *npm install -g json-server*
 
 - Levanta el Servidor
+
 Aca desde una terminal, tendras que navegar hasta la carpeta heroes-server y ejecutar el siguiente comando:
+
 *json-server --watch db.json*
 
 - Corre la Aplicacion
+
 En una terminal, navegaremos hasta la carpeta heroesApp donde ejecutaremos la apliacion con el comando:
+
 #ng serve -o -
 
 este comando nos abrira de manera automatica una pestaña en el navegador Chrome, en caso de ya tener la pagina solo bastara con ejecutar:
+
 #ng serve
 
 con este, solo sera necesario recargar la pagina.
