@@ -5,9 +5,6 @@
 
 -Objetivo del Proyecto
 -
-Contruir una SPA (Aplicacion  
-## 🧠 Objetivo del Proyecto
-
 Construir una SPA (Single Page Application) que sea eficiente, ligera y escalable aplicando las siguientes técnicas:
 - Rutas hijas con carga perezosa
 - CRUD (Crear, Leer, Actualizar, Eliminar)
