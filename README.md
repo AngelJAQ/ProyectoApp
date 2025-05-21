@@ -1,7 +1,7 @@
 -HeroesApp
 -
--Es una apliacion desarrollada con Angular para gestionar una catalogo de heroes. Implementa la Arquitectura Modular, ademas de trabajar con rutas hijas y carga perezosa (lazy load). 
--Permite realizar operacion CRUD (Create, Read, Update, Delete), ademas de contar con un diseño responsivo
+- Es una apliacion desarrollada con Angular para gestionar una catalogo de heroes. Implementa la Arquitectura Modular, ademas de trabajar con rutas hijas y carga perezosa (lazy load). 
+- Permite realizar operacion CRUD (Create, Read, Update, Delete), ademas de contar con un diseño responsivo
 
 -Objetivo del Proyecto
 -
@@ -24,5 +24,5 @@ Construir una SPA (Single Page Application) que sea eficiente, ligera y escalabl
 Estructura del Proyecto
 
 ProyectoApp/
--heroesApp/         # Aplicación Angular
--heroes-server/     # Backend simulado con JSON Server
+- heroesApp/         # Aplicación Angular
+- heroes-server/     # Backend simulado con JSON Server
