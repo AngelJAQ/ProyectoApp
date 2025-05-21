@@ -24,5 +24,5 @@ Construir una SPA (Single Page Application) que sea eficiente, ligera y escalabl
 Estructura del Proyecto
 
 ProyectoApp/
-├── heroesApp/         # Aplicación Angular
-└── heroes-server/     # Backend simulado con JSON Server
+-heroesApp/         # Aplicación Angular
+-heroes-server/     # Backend simulado con JSON Server
