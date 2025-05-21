@@ -52,11 +52,11 @@ Aca desde una terminal, tendras que navegar hasta la carpeta heroes-server y eje
 
 En una terminal, navegaremos hasta la carpeta heroesApp donde ejecutaremos la apliacion con el comando:
 
-#ng serve -o -
+*ng serve -o -*
 
 este comando nos abrira de manera automatica una pestaña en el navegador Chrome, en caso de ya tener la pagina solo bastara con ejecutar:
 
-#ng serve
+*ng serve*
 
 con este, solo sera necesario recargar la pagina.
 
